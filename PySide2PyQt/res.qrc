@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cloud2.png</file>
+        <file>3891.gif</file>
+    </qresource>
+</RCC>

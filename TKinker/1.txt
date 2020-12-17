@@ -1,0 +1,16 @@
+输入分析文件路径
+输出结果路径
+/遮罩图像路径
+
+背景色background_color
+图像尺寸   长
+          宽
+词边距margin=2
+min_font_size=4
+max_font_size=200
+font_path
+
+
+词频text框
+stopwords text框
+add words text框
